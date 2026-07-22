@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Jeewantha Dissanayake 👋
 
 🎓 **Information Systems Engineering (ISE) Undergraduate @ SLIIT** (3rd Year, 1st Sem)  
 💡 Passionate about **Systems Analysis, Enterprise Architecture, Full-Stack Development, and Data Engineering**.
