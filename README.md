@@ -121,7 +121,7 @@ Data Visualization
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:jeewanthadissanayake90@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 </p>
